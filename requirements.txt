@@ -36,7 +36,7 @@ PyJWT==2.4.0
 pyparsing==2.2.0
 python-dateutil==2.6.0
 pytz==2017.2
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.18.1
 s3transfer==0.1.10
 six==1.10.0
